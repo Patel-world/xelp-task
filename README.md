@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project can be seen [live](https://xelp-task.herokuapp.com/).
+This project can be seen here open [https://xelp-task.herokuapp.com/](https://xelp-task.herokuapp.com/).
 
 ## Available Scripts
 
